@@ -2,7 +2,13 @@
 
  <h2 align="center"> OpenCore EFI For HP Victus 16 Ryzen 5 5600H & Radeon RX 5500M</h2>
  OpenCore Ver: 0.9.6</br>
- MacOS Supported Ver: BigSur, Monterey, Ventura, Sonomo</br>
+ MacOS Supported Ver: 
+ 
+ *   BigSur
+*   Monterey
+*   Ventura
+*   Sonomo ( Disable NootedRed.kext and set **SecureBootModel** to **Disabled** until first boot)
+
  
 ![About mac](https://github.com/akhil838/HP-VICTUS-16_Hackintosh/assets/64255484/27ceea6a-c372-4011-941f-f1c12b2bf9be)
 
