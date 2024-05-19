@@ -12,8 +12,8 @@
  
 ![About mac](https://github.com/akhil838/HP-VICTUS-16_Hackintosh/assets/64255484/27ceea6a-c372-4011-941f-f1c12b2bf9be)
 
-Check [Dortania's Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/) for unsupported hardware like SSD and WLAN cards and replace them with supported ones
-
+Check [Dortania's Guide](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/) for unsupported hardware like SSD and WLAN cards and replace them with supported ones<br/>
+Use SSDT-Nvme-DISABLE.aml to disable the Nvme drives that are problematic, else disable it in config.plist 
 ## Table of Contents
 
 *   [Specifications](#specifications)
